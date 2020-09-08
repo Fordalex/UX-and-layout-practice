@@ -1,0 +1,10 @@
+html,
+body {
+    overflow-x: none;
+    margin: 0;
+}
+
+.landing-image {
+    width: 90vw;
+    margin: 0;
+}
