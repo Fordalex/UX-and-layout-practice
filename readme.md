@@ -4,19 +4,23 @@
 
 Create a wireframe on the computer or sketch one out.
 
-### The build
+### Start project
 
 First add bootstrap then build the page from the wireframe only a rough mockup.
 
-### Create custom css
+### Add css
 
 Then add minimal amount of css required to resemble your wireframe.
 
-### Add in fonts from google fonts
+### Add fonts
+
+Add fonts from your prefered web application.
 
 [Google fonts](https://fonts.google.com/)
 
-### Finish with adding icons to complete the design
+### Add icons
+
+Add icons to finish off the project.
 
 [Icons8](https://icons8.com/)
 [Font awesome](https://fontawesome.com/)
