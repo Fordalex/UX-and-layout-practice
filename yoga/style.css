@@ -59,6 +59,19 @@ hr {
     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
 }
 
+.leaves {
+    background: url('media/leaves.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    opacity: 0.5;
+    position: relative;
+    left: 15px;
+    top: 45px;
+}
+
 
 /* classes */
 
@@ -90,9 +103,10 @@ hr {
 }
 
 .profile {
-    width: 80px;
-    height: 80px;
-    border: solid black 1px;
+    width: 85px;
+    height: 85px;
+    background: url('media/profile.png');
+    background-size: 100%;
     background-color: white;
     border-radius: 50%;
     margin-bottom: 10px;
@@ -122,4 +136,5 @@ hr {
     padding: 5px;
     box-shadow: inset 5px 5px 8px 5px rgba(255, 255, 255, 0.1);
     margin-left: auto;
+    margin-top: 10px;
 }
