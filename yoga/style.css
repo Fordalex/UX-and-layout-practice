@@ -67,7 +67,7 @@ hr {
     display: inline-block;
     height: 150px;
     width: 150px;
-    opacity: 0.5;
+    opacity: 1;
     position: relative;
     left: 15px;
     top: 45px;
@@ -131,7 +131,7 @@ hr {
     align-items: center;
     border: none;
     border-radius: 12px;
-    background-color: rgba(59, 70, 168, 0.9);
+    background: linear-gradient(45deg, rgba(71, 82, 184, 0.9), rgba(94, 106, 208, 0.9));
     height: 42px;
     width: 42px;
     padding: 5px;
