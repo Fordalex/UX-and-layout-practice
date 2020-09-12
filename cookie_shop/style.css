@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@600&family=Lobster&family=Open+Sans+Condensed:wght@300&display=swap');
+html,
+body {
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Lobster', cursive;
+}
+
+p,
+a,
+li,
+button {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.cookie-header {
+    background: url('media/cookie_header.jpg');
+    background-size: 140%;
+    background-position: right;
+    height: 100vh;
+    position: relative;
+}
+
+.navigation {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.45);
+    backdrop-filter: blur(9px);
+}
+
+.navigation li {
+    font-size: 20px;
+}
+
+.navigation-links {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.navigation-links li {
+    display: inline;
+    margin-right: 34px;
+}
+
+.header-title {
+    position: absolute;
+    top: 33%;
+    left: 65%;
+    color: rgb(0, 0, 0);
+}
+
+.header-title h1 {
+    font-size: 65px;
+    margin: 0;
+}
+
+.header-title p {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    position: relative;
+    bottom: 12px;
+    left: 8px;
+}
+
+.main-button {
+    border: solid rgb(219, 165, 63) 1px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    color: white;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.basic-button {
+    border: solid rgb(219, 165, 63) 1px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    color: white;
+    padding: 5px 10px;
+    font-size: 17px;
+}

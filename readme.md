@@ -1,5 +1,10 @@
 # Creating a UX design
 
+## Before project questions
+
+1. What is the product or service
+
+
 ### Wireframe
 
 Create a wireframe on the computer or sketch one out.
